@@ -1,1 +1,1 @@
-About To be used when Microsoft Edge unexpectedly closes tabs, use "Win + R, %localappdata%\Microsoft\Edge\User Data\Default\Session" to view session data and in the "Default" folder find the History SQLite database. Copy file paths to use program to extract URLs
+To be used when Microsoft Edge unexpectedly closes tabs, use "Win + R, %localappdata%\Microsoft\Edge\User Data\Default\Session" to view session data and in the "Default" folder find the History SQLite database. Copy file paths to use program to extract URLs
